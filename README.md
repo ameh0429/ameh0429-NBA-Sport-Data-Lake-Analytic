@@ -219,7 +219,7 @@ WHERE Position = 'PG';
 - To delete the resources created by this project, run:
 
 ```bash
-python3 src/delete_resources.py
+python delete_resources.py
 ```
 
 ## Future Enhancements
