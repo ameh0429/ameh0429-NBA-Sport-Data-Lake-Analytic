@@ -206,7 +206,7 @@ This script will:
 **Amazon S3:**
 - Log in to the AWS Management Console.
 - Navigate to S3 and confirm the creation of the sports-analytics-data-lake bucket containing the raw-data/nba_player_data.json file.
-**Amazon Athena:**
+#### **Amazon Athena:**
 - In the AWS Management Console, navigate to Amazon Athena.
 - Run the following query to verify the data:
 ```sql
